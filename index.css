@@ -36,37 +36,40 @@ ul > li{
   
   }
    
-    
+    #gb{
+      position: relative;
+      max-width: 100%;
+      height:100% ;
+    }
   
   #IMG{
     position: relative;
     left: 7%;
     bottom: 220px;
     width: 40%;
-    height: 5O%;
+    height: 40%;
   }
-}
+
   #P{
-    position: fixed
+    position: fixed;
     text-align: center;
     color: cornsilk;
   }
 
-  }
+  
   #profil{
-  width: 100%
+  width: 100%;
     height: 360px;
   }
   #formation{
-    width: 100%
-    height: 400px;
-    text-align:center;
-    color:white;
+    width: 100%;
+    height: 360px;
+    color: antiquewhite;
   }
   #B{
     position: relative;
     width: 100%;
-    height: 400px;
+    height: 350px;
     bottom: 100px;
   }
   .hero-title {
@@ -76,10 +79,11 @@ ul > li{
     left: 50%;
    transform: translate(-50%, -50%);
     font-size: 100px;
-  
+
     opacity:100%;
    z-index: 2;
     font-weight: bolder;
 
 
 
+ 
